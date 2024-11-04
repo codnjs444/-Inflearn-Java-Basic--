@@ -16,7 +16,7 @@ public class ProductOrderMain {
         menu2.quantity = 4;
         productOrders[1] = menu2;
 
-        ProductOrder menu3 = new ProductOrder();
+        ProductOrder menu3  = new ProductOrder();
         menu3.productName = "감자";
         menu3.price = 6000;
         menu3.quantity = 5;
