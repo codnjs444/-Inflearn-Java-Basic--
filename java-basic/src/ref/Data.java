@@ -1,5 +1,5 @@
 package ref;
 
-public class Data {
+public class  Data {
     int value;
 }
