@@ -6,6 +6,6 @@ public class MemberMain {
         member.print();
         member.changeData("www");
         member.print();
-        
+
     }
 }

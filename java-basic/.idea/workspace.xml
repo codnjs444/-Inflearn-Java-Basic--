@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7722e1b-bfaf-4012-bddb-4a8458c08314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,7 @@
     "Application.DecoDataMain.executor": "Run",
     "Application.FinalFieldMain.executor": "Run",
     "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
