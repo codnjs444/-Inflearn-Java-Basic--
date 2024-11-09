@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7722e1b-bfaf-4012-bddb-4a8458c08314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/Overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/Overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/Overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/Overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/Overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +70,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ichaewon/git/-Inflearn-Java-Basic--/java-basic/src/extends1/Overriding",
     "onboarding.tips.debug.path": "/Users/ichaewon/git/-Inflearn-Java-Basic--/java-basic/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/Overriding" />
+      <recent name="$PROJECT_DIR$/src/extends1/ex3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="class1" />
     </key>
