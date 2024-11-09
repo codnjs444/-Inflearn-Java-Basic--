@@ -1,6 +1,6 @@
 package static2;
 
-public class DacoData {
+public class DecoData {
     private int instanceValue;
     private static int staticValue;
 
@@ -10,6 +10,11 @@ public class DacoData {
 
         staticValue++;
         staticMethod();
+    }
+
+    public static void staticCall(DecoData data) {
+        data.instanceValue++;
+        data.instancemethod();
     }
 
     public void instanceCall() {
