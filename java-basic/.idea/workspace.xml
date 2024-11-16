@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7722e1b-bfaf-4012-bddb-4a8458c08314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car0/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/NewCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,6 +59,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CarMain.executor": "Run",
+    "Application.CarMain0.executor": "Run",
+    "Application.CarMain1.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ClassStart2.executor": "Run",
     "Application.ClassStart3.executor": "Run",
@@ -77,6 +86,7 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.car0" />
       <recent name="class1" />
     </key>
   </component>
